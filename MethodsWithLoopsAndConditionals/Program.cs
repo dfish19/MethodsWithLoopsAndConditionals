@@ -5,7 +5,7 @@ namespace MethodsExercise3
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             int myArray = 10;
@@ -25,8 +25,8 @@ namespace MethodsExercise3
 
             } while (!proceed);
 
-
             OfVotingAge(age);
+
 
 
         }
